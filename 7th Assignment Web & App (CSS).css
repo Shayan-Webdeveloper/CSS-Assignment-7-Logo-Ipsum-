@@ -1,0 +1,222 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    width: 100%;
+    height: 70px;
+    border-bottom: 4px solid black;
+    position: relative;
+    padding: 0 50px;
+    box-sizing: border-box;
+    padding-top: 10px;
+}
+nav > ul{
+    position: absolute;
+    top: 10px;
+    margin-top: 10px;
+    right: 30px;
+}
+nav > ul > li{
+    list-style: none;
+    display: inline-block;
+    margin-right: 40px;
+    font-size: 20px;
+    font-weight: 600;
+    cursor: pointer;
+}
+nav > .container-1{
+    margin-top: 20px;
+}
+nav > ul >li:hover{
+    color: #F15757;
+}
+.Container-2{
+    width: 92%;
+    background-image: url(7th\ Assignment\ Web\ &\ App\ \(CSS\)\ Image\ 2.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
+padding-top: 240px;
+    padding-left: 100px;
+    height: 430px;
+}
+.Container-2 > span >h1{
+    color: white;
+    font-size: 80px;
+}
+.Container-2 >span > h1 > .House{
+    color: #F15757;
+}
+.Container-2 >span> p{
+    color: white;
+    width: 50%;
+    font-size: 20px;
+    letter-spacing: 2px;
+    margin: 20px 0;
+}
+.Container-2 >span> button{
+    padding: 12px 30px;
+    background-color: #F15757;
+    color: white;
+    border: 4px solid #F15757;
+    margin-right: 19px;
+    cursor: pointer;
+    font-weight: 600;
+    margin-top: 35px;
+border-top-left-radius: 18px;
+border-bottom-right-radius: 18px;
+}
+.Container-2 > span>button:hover{
+    background: none
+}
+.Container-3{
+    background-color: antiquewhite;
+text-align: justify;
+height: 350px;
+    width: 89%;
+    padding: 70px;
+}
+.Container-4 > img{
+border-radius: 15px;
+height: 350px;
+width: 600px;
+}
+.Container-5{
+float: right;
+margin-top: -340px;
+margin-left: 750px;
+}
+.Container-5 > h1{
+font-size: 60px;
+}
+.Container-5>h1>span{
+    color: #F15757;
+}
+.Container-5{
+    line-height: 25px;
+}
+.Container-3 > span{
+    margin-left: 750px;
+
+}
+.Visit-Now{
+padding: 12px 30px;
+background-color: #F15757;
+color: white;
+border: 4px solid #F15757;
+cursor: pointer;
+font-weight: 600;
+border-top-left-radius: 18px;
+border-bottom-right-radius: 18px;
+margin-top: 30px;
+}
+.Visit-Now:hover{
+    color: #F15757;
+    background-color: white;
+}
+.Container-6{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+}
+.Container-6>h2{
+    color: #F15757;
+}
+.Container-7{
+display: flex;
+margin-left: 200px;
+margin-right: 200px;
+padding: 50px;
+}
+.Container-8{
+padding: 10px;
+border: 1px solid white;
+margin-right: 30px;
+}
+.Container-8> img{
+    border-bottom-right-radius: 30px;
+    height: 200px;
+    width: 230px;
+}
+.Container-8 > h2{
+    color: #F15757;
+}
+.Book{
+    padding: 5px 25px;
+    background: none;
+    color: white;
+    border: 2px solid #F15757;
+    cursor: pointer;
+    font-weight: 600;
+border-top-left-radius: 18px;
+border-bottom-right-radius: 18px; 
+}
+.Book:hover{
+background-color: white;
+color: #F15757;
+}
+.Container-9{
+margin-right: 30px;
+    
+padding: 10px;
+border: 1px solid white;
+}
+.Container-10{
+margin-right: 30px;
+padding: 10px;
+border: 1px solid white;
+}
+.Container-9> img{
+    border-bottom-right-radius: 30px;
+    height: 200px;
+    width: 230px;
+}
+.Container-9 > h2{
+    color: #F15757;
+}
+.Container-10> img{
+    border-bottom-right-radius: 30px;
+    height: 200px;
+    width: 230px;
+}
+.Container-10 > h2{
+    color: #F15757;
+}
+.Container-11{
+    background-color: antiquewhite;
+    padding-top: 50px;
+    padding-left: 110px;
+    padding-right: 110px;
+    display: flex;
+    padding-bottom: 50px;
+}
+.Container-12 > h1{
+    color: #F15757;
+    margin-right: 100px;
+}
+.Container-13 > h1{
+    color: #F15757;
+    margin-right: 100px;
+}
+.Container-14 > h1{
+    color: #F15757;
+    margin-right: 100px;
+}
+.Container-12>p{
+    padding-left: 6px;
+}
+.Container-13>p{
+    padding-left: 6px;
+}
+.Container-14>p{
+    padding-left: 6px;
+}
+.Container-15 > a>img{
+margin-top: 20px;
+width: 40px;
+padding-right: 15px;
+height: 40px;
+}
